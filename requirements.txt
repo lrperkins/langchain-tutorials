@@ -4,3 +4,8 @@ pandas
 chromadb
 tiktoken
 openai
+faiss
+google-search-results
+bs4
+pypdf
+pinecone-client
