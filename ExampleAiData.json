@@ -1,0 +1,137 @@
+{
+  "id": 2,
+  "name": "Univar Solutions Inc.",
+  "ticker": "UNI",
+  "url": "univar.com",
+  "country": "United States",
+  "engaged": false,
+  "transparency": "High",
+  "held": 100000,
+  "description": "Univar Solutions Inc., together with its subsidiaries, distributes chemicals and ingredients worldwide...",
+  "image": "https://www.example.com/images/uni.png",
+  "ceo": "David Jukes",
+  "employees": 10000,
+  "founded": 1924,
+  "headquarters": "Downers Grove, Illinois",
+  "marketCap": 3000000000,
+  "revenue": 8000000000,
+  "website": "https://www.univar.com/",
+  "phone": "8005551234",
+  "address": "123 Main St, Suite 200, Downers Grove, IL 60515",
+  "exchange": "NYSE",
+  "industry": "Chemicals",
+  "sector": "Materials",
+  "sustainabilityApproach": "Univar Solutions is committed to sustainability...",
+  "subSectors": [
+    "Specialty Chemicals",
+    "Commodity Chemicals",
+    "Performance Materials",
+    "Agricultural Chemicals",
+    "Industrial Chemicals"
+  ],
+  "competitors": [
+    "Brenntag",
+    "Hexion",
+    "Nexeo Solutions",
+    "Huntsman Corporation",
+    "BASF",
+    "Dow",
+    "Ashland Global Holdings",
+    "Eastman Chemical Company"
+  ],
+  "keyPartnerships": [
+    "Shell Chemicals",
+    "ExxonMobil Chemical",
+    "INEOS",
+    "Covestro",
+    "DuPont"
+  ],
+  "products": [
+    "Solvents",
+    "Resins",
+    "Surfactants",
+    "Pigments",
+    "Intermediates",
+    "Additives",
+    "Food Ingredients",
+    "Personal Care Ingredients",
+    "Pharmaceutical Ingredients"
+  ],
+  "awardsAndRecognitions": [
+    "Responsible Care Distributor of the Year",
+    "International Chemical Distributor of the Year"
+  ],
+  "innovation": "Invests in research and development to create advanced chemical solutions for various industries.",
+  "expansionStrategy": "Acquisition of regional chemical distributors and entering new markets to strengthen its global presence.",
+  "customers": [
+    "Automotive",
+    "Electronics",
+    "Packaging",
+    "Textiles",
+    "Oil and Gas",
+    "Construction",
+    "Cosmetics",
+    "Food and Beverage"
+  ],
+  "researchFacilities": [
+    "The Solution Center in Houston, Texas",
+    "The Innovation Center in Tarrytown, New York"
+  ],
+  "socialMedia": {
+    "LinkedIn": "https://www.linkedin.com/company/univar-solutions/",
+    "Twitter": "https://twitter.com/univarsolutions",
+    "Facebook": "https://www.facebook.com/UnivarSolutionsInc/"
+  },
+  "safetyStandards": "Emphasizes on process safety, transportation safety, and workplace safety in compliance with industry regulations.",
+  "communityInvolvement": "Supports local educational initiatives, disaster relief efforts, and community development projects.",
+  "supplierDiversity": "Promotes diverse suppliers by providing equal opportunities to minority, women, and veteran-owned businesses.",
+  "employeeDevelopment": "Offers comprehensive training programs, professional development opportunities, and career advancement paths for its workforce.",
+  "recentAcquisitions": [
+    "Nexeo Solutions",
+    "Chemroy Canada Inc."
+  ]
+  "tradeAssociations": [
+    "National Association of Chemical Distributors (NACD)",
+    "European Association of Chemical Distributors (FECC)",
+    "Chemical Business Association (CBA)"
+  ],
+  "customerSupport": "Dedicated customer service team and technical experts to assist with product selection, formulation, and regulatory compliance.",
+  "digitalSolutions": [
+    "Univar Marketplace",
+    "ChemCentral",
+    "MyUnivar.com"
+  ],
+  "logisticsCapabilities": "Extensive distribution network, including strategically located warehouses and transportation fleet to ensure efficient delivery of products.",
+  "qualityManagement": "ISO 9001 certified, adhering to stringent quality control processes and continuous improvement practices.",
+  "environmentalInitiatives": "Reduction of greenhouse gas emissions, waste minimization, and responsible use of resources.",
+  "corporateGovernance": "Board of Directors and executive management team focused on long-term value creation, risk management, and ethical conduct.",
+  "supplierRelationships": "Long-term partnerships with leading global chemical manufacturers to provide a comprehensive product portfolio.",
+  "globalReach": "Operations in more than 60 countries across North America, Europe, Asia-Pacific, and Latin America.",
+  "regulatoryExpertise": "In-house regulatory experts to assist customers with navigating complex chemical regulations and industry standards.",
+  "proprietarySoftware": "Custom-built enterprise resource planning (ERP) and supply chain management systems to optimize operations.",
+  "certifications": [
+    "ISO 14001",
+    "OHSAS 18001",
+    "Responsible Care"
+  ]
+  "collaborativeInnovation": "Works closely with customers to develop tailored solutions for their unique business needs.",
+  "coreValues": [
+    "Safety",
+    "Integrity",
+    "Collaboration",
+    "Customer Focus",
+    "Excellence",
+    "Inclusion",
+    "Innovation"
+  ],
+  "globalSourcingCapabilities": "Sources high-quality raw materials and ingredients from reputable suppliers worldwide.",
+  "safetyCulture": "Strong safety culture driven by continuous training, safety audits, and sharing best practices across the organization.",
+  "sustainablePackaging": "Implements initiatives to minimize packaging waste and promote the use of recyclable materials.",
+  "energyManagement": "Focuses on energy efficiency and renewable energy sources to reduce the company's environmental footprint.",
+  "wasteManagement": "Adheres to waste management practices that prioritize recycling, reuse, and recovery of materials.",
+  "responsibleProductStewardship": "Ensures the safe handling, use, and disposal of chemicals throughout their life cycle.",
+  "skillDevelopmentInitiatives": "Encourages employees to learn and develop new skills through mentorship programs, workshops, and online learning resources.",
+  "diversityAndInclusion": "Promotes a diverse and inclusive work environment by fostering a culture of respect, open communication, and equal opportunities.",
+  "ethicalSourcing": "Committed to ethical sourcing practices and ensuring suppliers meet high standards of environmental and social responsibility.",
+  "codeOfConduct": "Establishes guidelines for ethical behavior, including anti-corruption, fair competition, and respect for human rights."
+}
